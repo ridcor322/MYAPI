@@ -1,5 +1,4 @@
-<?php ответа
-
+<?php
 include_once("config.php");
 include_once("err_handler.php");
 include_once("db_connect.php");
